@@ -152,7 +152,7 @@ class Application(tk.Frame):
 
 # Create the application window
 root = tk.Tk()
-root.geometry("630x260")
+root.geometry("660x260")
 root.resizable(False, False)
 root.title("ZFBSpardaTool")
 
