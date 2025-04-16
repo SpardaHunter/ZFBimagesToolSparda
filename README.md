@@ -2,7 +2,7 @@
 
 Description: Generates ZFB files. The program integrates an image and the shortcut where the rom is stored en masse.
 
-![imagen](https://github.com/user-attachments/assets/2aa72f92-a2fc-4037-af15-fc2d139e798e)
+![imagen](https://github.com/user-attachments/assets/c23cdca6-853e-4556-8bc3-0310940f61f0)
 
 
 How it works:
@@ -13,3 +13,11 @@ How it works:
 - Write in "EXTENSION" the extension that the rom files have (example: If the "Super Nintendo" roms are .sfc, write sfc)
 - Image size: You can edit the size of the preview images of each game. With the "Fulscreen" checkbox you can create full-size images, ideally combining this method with "Game Cover Generator"
 - Press the "Create ZFB files" button to start the process.
+
+Additional explanation: 
+- Added "STOP" button to stop the process.
+- Added "auto" button, it will create the ZFB file with the size of the image itself. 
+
+IMPORTANT: The SF2000 console must be configured according to the size in Foldername.ini/FoldernamX.ini.
+
+Credits: Q_ta has made contributions to this distribution.
