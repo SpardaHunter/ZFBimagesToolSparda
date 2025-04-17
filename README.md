@@ -17,6 +17,14 @@ How it works:
 Additional explanation: 
 - Added "STOP" button to stop the process.
 - Added "auto" button, it will create the ZFB file with the size of the image itself. 
+- If the "Create ZFB Files" or "STOP" button is selected, pressing Enter will cause the button to be pressed.
+- The buttons (except the Stop button) will be blocked when pressing the "Create ZFB Files" button.
+- In "manual" mode, an error will occur if a size smaller than 144x208 is selected.
+- In "auto" mode, if an image is smaller than 144x208, it will be resized in the ZFB to 144x208.
+
+IMPORTANT: The SF2000 console must be configured according to the size in Foldername.ini/FoldernamX.ini.
+
+Credits: Q_ta has made contributions to this distribution.
 
 IMPORTANT: The SF2000 console must be configured according to the size in Foldername.ini/FoldernamX.ini.
 
