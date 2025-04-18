@@ -32,7 +32,3 @@ Fixes:
 IMPORTANT: The SF2000 console must be configured according to the size in Foldername.ini/FoldernamX.ini.
 
 Credits: [Q_ta ](https://github.com/Q-ta-s) has made contributions to this distribution.
-
-IMPORTANT: The SF2000 console must be configured according to the size in Foldername.ini/FoldernamX.ini.
-
-Credits: Q_ta has made contributions to this distribution.
